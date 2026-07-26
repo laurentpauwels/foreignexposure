@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the article (preferred citation) and this repository."
+title: "Measuring Foreign Exposure — Replication Package"
+abstract: "Replication code (MATLAB, Stata, Python) for Imbs and Pauwels (2025), \"Measuring Foreign Exposure,\" Journal of International Economics. Reproduces every figure and table in the paper. The underlying WIOD and IMF data are archived separately (see identifiers)."
+type: software
+authors:
+  - family-names: Imbs
+    given-names: Jean
+  - family-names: Pauwels
+    given-names: Laurent
+version: 1.0.0
+date-released: 2026-07-26
+license: GPL-3.0-only
+repository-code: "https://github.com/laurentpauwels/foreignexposure"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21612660
+    description: "Concept DOI for the code archive (all versions)"
+  - type: doi
+    value: 10.5281/zenodo.21611679
+    description: "Concept DOI for the replication data (all versions)"
+keywords:
+  - foreign exposure
+  - global value chains
+  - input-output tables
+  - WIOD
+  - trade in value added
+  - international business cycles
+preferred-citation:
+  type: article
+  title: "Measuring Foreign Exposure"
+  authors:
+    - family-names: Imbs
+      given-names: Jean
+    - family-names: Pauwels
+      given-names: Laurent
+  journal: "Journal of International Economics"
+  year: 2025
+  doi: 10.1016/j.jinteco.2025.104126

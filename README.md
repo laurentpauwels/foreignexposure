@@ -1,6 +1,7 @@
 # Measuring Foreign Exposure — Replication Package
 
 [![Article DOI](https://img.shields.io/badge/Article-10.1016%2Fj.jinteco.2025.104126-blue)](https://doi.org/10.1016/j.jinteco.2025.104126)
+[![Code DOI](https://zenodo.org/badge/1313194182.svg)](https://doi.org/10.5281/zenodo.21612660)
 [![Data DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21611679.svg)](https://doi.org/10.5281/zenodo.21611679)
 
 Replication code for:
@@ -298,6 +299,16 @@ Naming convention: `load*` imports a dataset produced by MATLAB; `process*` tran
 - `makeTablesValueAdded.do` — regressions for Tables 1 and 2.
 - `makeTablesGrowth.do` — regressions for Table 4.
 - `makeTablesSynchronization.do` — regressions for Table 3.
+
+## How to cite
+
+If you use this replication package, please cite the article, and — as appropriate — the code and data archives:
+
+- **Article:** Imbs, J. and Pauwels, L. (2025). Measuring Foreign Exposure. *Journal of International Economics*. https://doi.org/10.1016/j.jinteco.2025.104126
+- **Code:** Imbs, J. and Pauwels, L. (2025). *Measuring Foreign Exposure — Replication Package* (v1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.21612660
+- **Data:** Imbs, J. and Pauwels, L. (2025). *Replication data for "Measuring Foreign Exposure"* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21611679
+
+The two Zenodo DOIs above are the concept ("all versions") DOIs and always resolve to the latest version. A `CITATION.cff` file is included, so GitHub's "Cite this repository" button will generate these references for you.
 
 ## License
 
