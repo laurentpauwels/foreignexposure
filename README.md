@@ -2,7 +2,7 @@
 
 [![Article DOI](https://img.shields.io/badge/Article-10.1016%2Fj.jinteco.2025.104126-blue)](https://doi.org/10.1016/j.jinteco.2025.104126)
 [![Code DOI](https://img.shields.io/badge/Code_DOI-10.5281%2Fzenodo.21612660-blue)](https://doi.org/10.5281/zenodo.21612660)
-[![Data DOI](https://img.shields.io/badge/Data%20DOI-10.5281%2Fzenodo.21611679-blue)](https://doi.org/10.5281/zenodo.21611679)
+[![Data DOI](https://img.shields.io/badge/Data_DOI-10.5281%2Fzenodo.21611679-blue)](https://doi.org/10.5281/zenodo.21611679)
 
 Replication code for:
 
